@@ -85,3 +85,5 @@ cargo test --test integration_test
   - 无法把main.rs的函数导入作用域
 - 只有library crate才能暴露函数给其他crate用
 - binary crate意味着独立运行
+
+参考<https://www.bilibili.com/video/BV1hp4y1k7SV?spm_id_from=333.999.0.0>
